@@ -1,4 +1,6 @@
 import random
+from operator import truediv
+from symbol import return_stmt
 from tkinter.font import names
 
 
